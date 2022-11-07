@@ -30,6 +30,12 @@ Migrate database
 php artisan migrate
 ```
 
+Add prune command to console kernel
+
+```php
+$schedule->command('temporal-key:prune')->everyTenMinutes();
+```
+
 ## Usage
 
 ### Default usage
