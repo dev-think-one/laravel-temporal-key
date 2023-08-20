@@ -1,11 +1,11 @@
 # Laravel temporal key.
 
-[![Packagist License](https://img.shields.io/packagist/l/yaroslawww/laravel-temporal-key?color=%234dc71f)](https://github.com/yaroslawww/laravel-temporal-key/blob/main/LICENSE.md)
-[![Packagist Version](https://img.shields.io/packagist/v/yaroslawww/laravel-temporal-key)](https://packagist.org/packages/yaroslawww/laravel-temporal-key)
-[![Total Downloads](https://img.shields.io/packagist/dt/yaroslawww/laravel-temporal-key)](https://packagist.org/packages/yaroslawww/laravel-temporal-key)
-[![Build Status](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/badges/build.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/build-status/main)
-[![Code Coverage](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/?branch=main)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/yaroslawww/laravel-temporal-key/?branch=main)
+![Packagist License](https://img.shields.io/packagist/l/think.studio/laravel-temporal-key?color=%234dc71f)
+[![Packagist Version](https://img.shields.io/packagist/v/think.studio/laravel-temporal-key)](https://packagist.org/packages/think.studio/laravel-temporal-key)
+[![Total Downloads](https://img.shields.io/packagist/dt/think.studio/laravel-temporal-key)](https://packagist.org/packages/think.studio/laravel-temporal-key)
+[![Build Status](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/badges/build.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/build-status/main)
+[![Code Coverage](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/?branch=main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/dev-think-one/laravel-temporal-key/?branch=main)
 
 Create temporal random string key in database for any purposes. Key will be removed after expiration time or after max
 retrieve attempts.
@@ -15,7 +15,7 @@ retrieve attempts.
 Install the package via composer:
 
 ```shell
-composer require yaroslawww/laravel-temporal-key
+composer require think.studio/laravel-temporal-key
 ```
 
 Optionally you can publish the config file with:

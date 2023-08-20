@@ -1,16 +1,16 @@
 {
-    "name": "yaroslawww/laravel-temporal-key",
-    "description": "Create and retrieve  .",
+    "name": "think.studio/laravel-temporal-key",
+    "description": "Create and retrieve random string key in database for any purposes.",
     "keywords": [
         "laravel",
         "temporal"
     ],
-    "homepage": "https://github.com/yaroslawww/laravel-temporal-key",
+    "homepage": "https://github.com/dev-think-one/laravel-temporal-key",
     "license": "MIT",
     "authors": [
         {
             "name": "Yaroslav Georgitsa",
-            "email": "yaroslav.georgitsa@gmail.com",
+            "email": "yg@think.studio",
             "homepage": "https://github.com/yaroslawww",
             "role": "Developer"
         }
