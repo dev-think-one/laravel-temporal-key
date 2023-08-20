@@ -13,7 +13,7 @@ class TemporalKeyStore extends Model
         'meta'        => 'array',
     ];
 
-    public function getTable()
+    public function getTable():string
     {
         return config('temporal-key.tables.temporal_keys');
     }
